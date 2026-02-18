@@ -1,0 +1,8 @@
+streamlit
+playwright
+beautifulsoup4
+python-dotenv
+langgraph
+langchain-openai
+reportlab
+tiktoken
